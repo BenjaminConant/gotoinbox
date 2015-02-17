@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "Go To Gmail",
+  "name": "Go To Inbox",
 
-  "short_name": "gtGml",
+  "short_name": "gtIbx",
   
-  "description": "Now you're just one click away from your gmail inbox!",
+  "description": "Now you're just one click away from inbox!",
   
-  "version": "0.3",
+  "version": "0.1",
   
   "background": { "scripts": ["redirect.js"] },
   
